@@ -1,0 +1,11 @@
+bug_id,description,category
+1,App crashes when clicking submit button,Crash
+2,Login page takes too long to load,Performance
+3,SQL injection vulnerability in login form,Security
+4,Button alignment broken on mobile screen,UI
+5,App freezes when uploading large file,Performance
+6,Password visible in plain text,Security
+7,Error 500 when submitting form,Crash
+8,Text overlaps on smaller screens,UI
+9,Unauthorized access to admin panel,Security
+10,Dropdown not working properly,Functional
