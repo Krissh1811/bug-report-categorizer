@@ -1,11 +1,201 @@
 bug_id,description,category
-1,App crashes when clicking submit button,Crash
-2,Login page takes too long to load,Performance
-3,SQL injection vulnerability in login form,Security
-4,Button alignment broken on mobile screen,UI
-5,App freezes when uploading large file,Performance
-6,Password visible in plain text,Security
-7,Error 500 when submitting form,Crash
-8,Text overlaps on smaller screens,UI
-9,Unauthorized access to admin panel,Security
-10,Dropdown not working properly,Functional
+1,Application crashes when clicking submit button,Crash
+2,Unexpected shutdown during uploading large file,Crash
+3,System crashes while using mobile device,Crash
+4,Crash occurs when user tries to switching between tabs,Crash
+5,Application stops responding after logging in with valid credentials,Crash
+6,Application crashes when submitting form,Crash
+7,Unexpected shutdown during refreshing the page,Crash
+8,System crashes while running the application,Crash
+9,Crash occurs when user tries to opening settings page,Crash
+10,Application stops responding after navigating to dashboard,Crash
+11,Application crashes when clicking submit button,Crash
+12,Unexpected shutdown during uploading large file,Crash
+13,System crashes while using mobile device,Crash
+14,Crash occurs when user tries to switching between tabs,Crash
+15,Application stops responding after logging in with valid credentials,Crash
+16,Application crashes when submitting form,Crash
+17,Unexpected shutdown during refreshing the page,Crash
+18,System crashes while running the application,Crash
+19,Crash occurs when user tries to opening settings page,Crash
+20,Application stops responding after navigating to dashboard,Crash
+21,Application crashes when clicking submit button,Crash
+22,Unexpected shutdown during uploading large file,Crash
+23,System crashes while using mobile device,Crash
+24,Crash occurs when user tries to switching between tabs,Crash
+25,Application stops responding after logging in with valid credentials,Crash
+26,Application crashes when submitting form,Crash
+27,Unexpected shutdown during refreshing the page,Crash
+28,System crashes while running the application,Crash
+29,Crash occurs when user tries to opening settings page,Crash
+30,Application stops responding after navigating to dashboard,Crash
+31,Application crashes when clicking submit button,Crash
+32,Unexpected shutdown during uploading large file,Crash
+33,System crashes while using mobile device,Crash
+34,Crash occurs when user tries to switching between tabs,Crash
+35,Application stops responding after logging in with valid credentials,Crash
+36,Application crashes when submitting form,Crash
+37,Unexpected shutdown during refreshing the page,Crash
+38,System crashes while running the application,Crash
+39,Crash occurs when user tries to opening settings page,Crash
+40,Application stops responding after navigating to dashboard,Crash
+41,Unauthorized access possible via clicking submit button,Security
+42,Security vulnerability found in uploading large file,Security
+43,Sensitive data exposed through using mobile device,Security
+44,SQL injection possible in switching between tabs,Security
+45,Authentication bypass using logging in with valid credentials,Security
+46,Unauthorized access possible via submitting form,Security
+47,Security vulnerability found in refreshing the page,Security
+48,Sensitive data exposed through running the application,Security
+49,SQL injection possible in opening settings page,Security
+50,Authentication bypass using navigating to dashboard,Security
+51,Unauthorized access possible via clicking submit button,Security
+52,Security vulnerability found in uploading large file,Security
+53,Sensitive data exposed through using mobile device,Security
+54,SQL injection possible in switching between tabs,Security
+55,Authentication bypass using logging in with valid credentials,Security
+56,Unauthorized access possible via submitting form,Security
+57,Security vulnerability found in refreshing the page,Security
+58,Sensitive data exposed through running the application,Security
+59,SQL injection possible in opening settings page,Security
+60,Authentication bypass using navigating to dashboard,Security
+61,Unauthorized access possible via clicking submit button,Security
+62,Security vulnerability found in uploading large file,Security
+63,Sensitive data exposed through using mobile device,Security
+64,SQL injection possible in switching between tabs,Security
+65,Authentication bypass using logging in with valid credentials,Security
+66,Unauthorized access possible via submitting form,Security
+67,Security vulnerability found in refreshing the page,Security
+68,Sensitive data exposed through running the application,Security
+69,SQL injection possible in opening settings page,Security
+70,Authentication bypass using navigating to dashboard,Security
+71,Unauthorized access possible via clicking submit button,Security
+72,Security vulnerability found in uploading large file,Security
+73,Sensitive data exposed through using mobile device,Security
+74,SQL injection possible in switching between tabs,Security
+75,Authentication bypass using logging in with valid credentials,Security
+76,Unauthorized access possible via submitting form,Security
+77,Security vulnerability found in refreshing the page,Security
+78,Sensitive data exposed through running the application,Security
+79,SQL injection possible in opening settings page,Security
+80,Authentication bypass using navigating to dashboard,Security
+81,Application slows down when clicking submit button,Performance
+82,Page load time increases during uploading large file,Performance
+83,High latency observed while using mobile device,Performance
+84,System freezes temporarily when switching between tabs,Performance
+85,Performance degrades under logging in with valid credentials,Performance
+86,Application slows down when submitting form,Performance
+87,Page load time increases during refreshing the page,Performance
+88,High latency observed while running the application,Performance
+89,System freezes temporarily when opening settings page,Performance
+90,Performance degrades under navigating to dashboard,Performance
+91,Application slows down when clicking submit button,Performance
+92,Page load time increases during uploading large file,Performance
+93,High latency observed while using mobile device,Performance
+94,System freezes temporarily when switching between tabs,Performance
+95,Performance degrades under logging in with valid credentials,Performance
+96,Application slows down when submitting form,Performance
+97,Page load time increases during refreshing the page,Performance
+98,High latency observed while running the application,Performance
+99,System freezes temporarily when opening settings page,Performance
+100,Performance degrades under navigating to dashboard,Performance
+101,Application slows down when clicking submit button,Performance
+102,Page load time increases during uploading large file,Performance
+103,High latency observed while using mobile device,Performance
+104,System freezes temporarily when switching between tabs,Performance
+105,Performance degrades under logging in with valid credentials,Performance
+106,Application slows down when submitting form,Performance
+107,Page load time increases during refreshing the page,Performance
+108,High latency observed while running the application,Performance
+109,System freezes temporarily when opening settings page,Performance
+110,Performance degrades under navigating to dashboard,Performance
+111,Application slows down when clicking submit button,Performance
+112,Page load time increases during uploading large file,Performance
+113,High latency observed while using mobile device,Performance
+114,System freezes temporarily when switching between tabs,Performance
+115,Performance degrades under logging in with valid credentials,Performance
+116,Application slows down when submitting form,Performance
+117,Page load time increases during refreshing the page,Performance
+118,High latency observed while running the application,Performance
+119,System freezes temporarily when opening settings page,Performance
+120,Performance degrades under navigating to dashboard,Performance
+121,UI layout breaks when clicking submit button,UI
+122,Button not aligned properly on uploading large file,UI
+123,Text overlaps on using mobile device screen,UI
+124,Dropdown not visible when switching between tabs,UI
+125,UI elements misaligned during logging in with valid credentials,UI
+126,UI layout breaks when submitting form,UI
+127,Button not aligned properly on refreshing the page,UI
+128,Text overlaps on running the application screen,UI
+129,Dropdown not visible when opening settings page,UI
+130,UI elements misaligned during navigating to dashboard,UI
+131,UI layout breaks when clicking submit button,UI
+132,Button not aligned properly on uploading large file,UI
+133,Text overlaps on using mobile device screen,UI
+134,Dropdown not visible when switching between tabs,UI
+135,UI elements misaligned during logging in with valid credentials,UI
+136,UI layout breaks when submitting form,UI
+137,Button not aligned properly on refreshing the page,UI
+138,Text overlaps on running the application screen,UI
+139,Dropdown not visible when opening settings page,UI
+140,UI elements misaligned during navigating to dashboard,UI
+141,UI layout breaks when clicking submit button,UI
+142,Button not aligned properly on uploading large file,UI
+143,Text overlaps on using mobile device screen,UI
+144,Dropdown not visible when switching between tabs,UI
+145,UI elements misaligned during logging in with valid credentials,UI
+146,UI layout breaks when submitting form,UI
+147,Button not aligned properly on refreshing the page,UI
+148,Text overlaps on running the application screen,UI
+149,Dropdown not visible when opening settings page,UI
+150,UI elements misaligned during navigating to dashboard,UI
+151,UI layout breaks when clicking submit button,UI
+152,Button not aligned properly on uploading large file,UI
+153,Text overlaps on using mobile device screen,UI
+154,Dropdown not visible when switching between tabs,UI
+155,UI elements misaligned during logging in with valid credentials,UI
+156,UI layout breaks when submitting form,UI
+157,Button not aligned properly on refreshing the page,UI
+158,Text overlaps on running the application screen,UI
+159,Dropdown not visible when opening settings page,UI
+160,UI elements misaligned during navigating to dashboard,UI
+161,Feature does not work when clicking submit button,Functional
+162,Incorrect behavior observed while uploading large file,Functional
+163,Expected output not generated for using mobile device,Functional
+164,Function fails to execute during switching between tabs,Functional
+165,Unexpected result returned when logging in with valid credentials,Functional
+166,Feature does not work when submitting form,Functional
+167,Incorrect behavior observed while refreshing the page,Functional
+168,Expected output not generated for running the application,Functional
+169,Function fails to execute during opening settings page,Functional
+170,Unexpected result returned when navigating to dashboard,Functional
+171,Feature does not work when clicking submit button,Functional
+172,Incorrect behavior observed while uploading large file,Functional
+173,Expected output not generated for using mobile device,Functional
+174,Function fails to execute during switching between tabs,Functional
+175,Unexpected result returned when logging in with valid credentials,Functional
+176,Feature does not work when submitting form,Functional
+177,Incorrect behavior observed while refreshing the page,Functional
+178,Expected output not generated for running the application,Functional
+179,Function fails to execute during opening settings page,Functional
+180,Unexpected result returned when navigating to dashboard,Functional
+181,Feature does not work when clicking submit button,Functional
+182,Incorrect behavior observed while uploading large file,Functional
+183,Expected output not generated for using mobile device,Functional
+184,Function fails to execute during switching between tabs,Functional
+185,Unexpected result returned when logging in with valid credentials,Functional
+186,Feature does not work when submitting form,Functional
+187,Incorrect behavior observed while refreshing the page,Functional
+188,Expected output not generated for running the application,Functional
+189,Function fails to execute during opening settings page,Functional
+190,Unexpected result returned when navigating to dashboard,Functional
+191,Feature does not work when clicking submit button,Functional
+192,Incorrect behavior observed while uploading large file,Functional
+193,Expected output not generated for using mobile device,Functional
+194,Function fails to execute during switching between tabs,Functional
+195,Unexpected result returned when logging in with valid credentials,Functional
+196,Feature does not work when submitting form,Functional
+197,Incorrect behavior observed while refreshing the page,Functional
+198,Expected output not generated for running the application,Functional
+199,Function fails to execute during opening settings page,Functional
+200,Unexpected result returned when navigating to dashboard,Functional
